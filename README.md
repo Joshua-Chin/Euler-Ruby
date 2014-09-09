@@ -1,4 +1,4 @@
 Euler-Ruby
 ==========
 
-Project Euler problems in ruby
+These are solutions to [project euler](https://projecteuler.net) problems, coded in ruby.
